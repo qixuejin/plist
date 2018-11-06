@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://znh.sggf.com.cn:17001/UpdateInfo/DownLoadIOS</string>
+						<string>http://znh.sggf.com.cn:17001/UpdateInfo/DownloadIOS</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -19,7 +19,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://znh.sggf.com.cn:17001/apps/Icon512x512.png</string>
+						<string>http://znh.sggf.com.cn:17001/UploadFiles/apps/Icon512x512.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -27,15 +27,15 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://znh.sggf.com.cn:17001/apps/Icon57x57.png</string>
+						<string>http://znh.sggf.com.cn:17001/UploadFiles/apps/Icon57x57.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>SGGT</string>
+					<string>com.sggf.SGGT</string>
 					<key>bundle-version</key>
-					<string>1.0.0.0</string>
+					<string>3.3.0</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
