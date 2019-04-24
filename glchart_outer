@@ -20,7 +20,7 @@ Skip to content
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://222.87.137.206:4425/UploadFiles/apps/Icon512x512.png</string>
+						<string>http://222.87.137.206:4425/Files/app/Icon512x512.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -28,7 +28,7 @@ Skip to content
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://222.87.137.206:4425/UploadFiles/apps/Icon57x57.png</string>
+						<string>http://222.87.137.206:4425/Files/app/Icon57x57.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -40,7 +40,7 @@ Skip to content
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
-					<string>glchart</string>
+					<string>GLChart</string>
 					<key>title</key>
 					<string>高炉曲线</string>
 				</dict>
